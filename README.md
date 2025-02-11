@@ -1,2 +1,7 @@
-# PDS_LAB2
-Segunda Prádica pds
+## PDS_LAB2
+
+# PUNTO A 
+
+# PUNTO B
+
+# PUNTO C
